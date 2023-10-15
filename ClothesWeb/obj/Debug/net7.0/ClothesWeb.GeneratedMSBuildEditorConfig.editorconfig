@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ClothesWeb
+build_property.RootNamespace = ClothesWeb
+build_property.ProjectDir = C:\Users\ADMIN\Desktop\ClothesWeb\ClothesWeb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Desktop\ClothesWeb\ClothesWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Blog_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxCbG9nX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Catagori.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxDYXRhZ29yaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Product_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcm9kdWN0X0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Product_List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcm9kdWN0X0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/Home/Sign_Up.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxTaWduX1VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Customer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Alerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cQWxlcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Button.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cQnV0dG9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Card.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cQ2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Forms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cRm9ybXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/icons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5caWNvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Sample_Page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cU2FtcGxlX1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cVHlwb2dyYXBoeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/Admin/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcQWRtaW5cVXBzZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Areas/Owner/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcT3duZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/ClothesWeb/ClothesWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6dv187eibg
